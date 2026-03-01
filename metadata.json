@@ -1,0 +1,5 @@
+{
+  "name": "SunSide",
+  "description": "Predict which side of the bus will receive direct sunlight during your journey.",
+  "requestFramePermissions": ["geolocation"]
+}
